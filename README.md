@@ -1,4 +1,6 @@
 Tech-Talks
 ==========
 
-A collection of tech talks 
+A collection of tech talks:
+
+1. Vagrant
